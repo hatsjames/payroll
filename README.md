@@ -1,2 +1,2 @@
-# payroll
-Payroll management system,php
+# Online Payroll system
+This is a Payroll management system for employees,its written in php,jquery,html,bootstrap 
