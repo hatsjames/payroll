@@ -38,17 +38,4 @@ Class Database{
 	
 }
 
-
-/*
-$config=array('host'=>'localhost',
-'user'=>'root',
-'password'=>'people',
-'database'=>'stock',
-);
-             global $db_conn;
-$db_conn=new mysqli($config['host'],$config['user'],$config['password'],$config['database']);
-if(mysqli_connect_errno()){
-               die("couldn't connect!");
-}*/
-
  ?>
