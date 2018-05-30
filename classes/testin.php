@@ -8,9 +8,7 @@
 
 
    $hostdb = "localhost";  // MySQl host
-   $userdb = "root";  // MySQL username
-   $passdb = "kings_db";  // MySQL password
-   $namedb = "memo";  // MySQL database name
+  MySQL database name
 
    // Establish a connection to the database
    $dbhandle = new mysqli($hostdb, $userdb, $passdb, $namedb);
