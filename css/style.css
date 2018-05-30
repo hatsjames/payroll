@@ -1,0 +1,65 @@
+
+body{
+		ackground-image:url("../img/8.jpeg");
+		
+	
+		}
+th{
+	font-size:small;
+}
+#pop_up{
+	background-color:white;
+}
+#side{
+	background-color:white;
+	float: left;
+	width: 300px;
+	height: 400px;
+	margin-left: 40px;
+}
+#right{
+	border-top-width:thick;
+	border-left-color:black;
+	border-left-style:inset;
+	border-top-style:inset;
+	float:right;
+	width:950px;
+	padding-left: 30px;
+	margin-right: 30px;
+	height:auto;
+	background-color:#EEEEEE;
+	
+}
+#right1{
+	border-top-width:thick;
+	border-left-color:black;
+	border-left-style:inset;
+	border-top-style:inset;
+	float:right;
+	width:950px;
+	padding-left: 30px;
+	margin-right: 30px;
+	height:auto;
+	background-color:white;
+	
+}
+
+
+#item{
+	width:300px;
+	height:auto;
+}
+#location{
+	width:300px;
+	height:auto;
+}
+#container{
+	background-color:white;
+}
+#headin{
+ 	background-image:url('../photo/ne4.jpg'), url('../photo/ne4.jpg');
+ 	background-color:;
+ 	background-repeat:no-repeat, no-repeat;
+	background-position:left, right;
+	
+ }
