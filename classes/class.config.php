@@ -4,9 +4,9 @@ Class Database{
 	private $conn;
 	private static $instance;
 	private $host='localhost';
-	private $pwd='kings_db';
-	private $user='root';
-	private $db='memo';
+	private $pwd='x_payroll';
+	private $user='cls';
+	private $db='p_qlltest';
 	
 	/*gettin instance of db
 	@return instance;
